@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpaceXMission</string>
+    <string name="sort_by_mission_name">Sort by mission name</string>
+    <string name="sort_by_date">Sort by date</string>
+</resources>
